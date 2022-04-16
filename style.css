@@ -1,0 +1,41 @@
+.card-img-top{
+
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+}
+li a:hover{
+    background-color: red;
+    padding: 10px;
+    border-radius: 50px 30px 50px 30px;
+}
+.logo{
+    height: 80px;
+    width: 70px;
+    border-radius: 40%;
+}
+a:hover{
+    background-color: gold;
+    padding: 10px;
+    border-radius: 20px 10px 20px 10px;
+}
+
+.slidersiderimg {
+    padding: 30px;
+
+}
+footer {
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+    padding-top: 2rem;
+}
+hr.light {
+    border-color: 1px solid #d5d5d5; 
+    width: 75%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
+
+
+
+
